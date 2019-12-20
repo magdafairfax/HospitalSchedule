@@ -1,0 +1,14 @@
+{
+  "active" : 0,
+  "id" : 3,
+  "doctorId" :8,
+  "hospitalId" : 55,
+  "timeSlot" : [
+    { "startTime": "10",
+      "endTime": "12"
+    },
+    { "startTime": "3",
+      "endTime": "5"
+    }
+  ]
+}
